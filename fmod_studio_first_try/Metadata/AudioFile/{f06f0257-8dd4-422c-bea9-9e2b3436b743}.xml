@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f06f0257-8dd4-422c-bea9-9e2b3436b743}">
+		<property name="assetPath">
+			<value>Let It Be.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>232.75102040816327</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bec7b400-ff77-4242-81ec-586e477f3b2a}</destination>
+		</relationship>
+	</object>
+</objects>

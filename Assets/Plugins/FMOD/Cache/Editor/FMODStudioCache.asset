@@ -1,0 +1,1010 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9029650256144644149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Let It Be/Chord_F_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Let It Be/Chord_F_ARP_140
+  Guid:
+    Data1: 1033874945
+    Data2: 1256848247
+    Data3: -1486477439
+    Data4: 522008176
+  Banks:
+  - {fileID: 1595710353691058456}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-8754529907257906227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LetItBe_140
+  m_EditorClassIdentifier: 
+  Path: event:/LetItBe_140
+  Guid:
+    Data1: 484880970
+    Data2: 1324704721
+    Data3: -700781942
+    Data4: -628337793
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 232751
+--- !u!114 &-8531837323139136327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_G_ARP_67.5
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_G_ARP_67.5
+  Guid:
+    Data1: 1923189200
+    Data2: 1143652354
+    Data3: -548077423
+    Data4: -1884722246
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144274
+--- !u!114 &-7690670545850285892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_G_ARP_270
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_G_ARP_270
+  Guid:
+    Data1: -762001556
+    Data2: 1084751873
+    Data3: -1515910767
+    Data4: 1355000053
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37590
+--- !u!114 &-7626517968207703809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: event:/Let It Be/LetItBe_140
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorEventRef
+  Path: event:/Let It Be/LetItBe_140
+  Guid:
+    Data1: 484880970
+    Data2: 1324704721
+    Data3: -700781942
+    Data4: -628337793
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 232751
+--- !u!114 &-5766892629107425102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/firstTryBank.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/firstTryBank.bank
+  Name: firstTryBank
+  StudioPath: bank:/firstTryBank
+  lastModified: 638244268166007612
+  FileSizes:
+  - Name: Desktop
+    Value: 6556320
+  Exists: 1
+--- !u!114 &-5595667477382233566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SomeoneLikeU_fast
+  m_EditorClassIdentifier: 
+  Path: event:/SomeoneLikeU_fast
+  Guid:
+    Data1: -1279388659
+    Data2: 1225567376
+    Data3: 759985576
+    Data4: 640442142
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 128024
+--- !u!114 &-5473692430469543275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_G_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_G_ARP_140
+  Guid:
+    Data1: -2092180632
+    Data2: 1231799582
+    Data3: -1706799215
+    Data4: -8860954
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-4891095623039720642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638243530794295157
+  FileSizes:
+  - Name: Desktop
+    Value: 1218
+  Exists: 1
+--- !u!114 &-4833922079918165205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: event:/Let It Be/Chord_F_ARP_140
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorEventRef
+  Path: event:/Let It Be/Chord_F_ARP_140
+  Guid:
+    Data1: 1033874945
+    Data2: 1256848247
+    Data3: -1486477439
+    Data4: 522008176
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-4138623743449132697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638244268164160447
+  FileSizes:
+  - Name: Desktop
+    Value: 1064
+  Exists: 1
+--- !u!114 &-3892965407323838429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord Am_ARP_67.5
+  m_EditorClassIdentifier: 
+  Path: event:/Chord Am_ARP_67.5
+  Guid:
+    Data1: -944519794
+    Data2: 1130705799
+    Data3: -467275099
+    Data4: 565072659
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144274
+--- !u!114 &-3512924958405590103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_F_ARP_67.5
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_F_ARP_67.5
+  Guid:
+    Data1: 13376249
+    Data2: 1080701083
+    Data3: -1172220276
+    Data4: 1734480256
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144274
+--- !u!114 &-3344216403268567173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_F_ARP_135
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_F_ARP_135
+  Guid:
+    Data1: 1851445057
+    Data2: 1159129851
+    Data3: 2120361620
+    Data4: -1693844374
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73142
+--- !u!114 &-2445687895030529857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_Am_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_Am_ARP_140
+  Guid:
+    Data1: 1473237189
+    Data2: 1201206096
+    Data3: -69821292
+    Data4: -1450567345
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-2092930259751076540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: event:/Let It Be/Chord_G_ARP_140
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorEventRef
+  Path: event:/Let It Be/Chord_G_ARP_140
+  Guid:
+    Data1: -2092180632
+    Data2: 1231799582
+    Data3: -1706799215
+    Data4: -8860954
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-2043172596538590621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638244268164150359
+  FileSizes:
+  - Name: Desktop
+    Value: 1218
+  Exists: 1
+--- !u!114 &-913236788813227751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_C_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_C_ARP_140
+  Guid:
+    Data1: 1708796559
+    Data2: 1202141177
+    Data3: -84258404
+    Data4: -1355745933
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &-323742384718579847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_F_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_F_ARP_140
+  Guid:
+    Data1: 1033874945
+    Data2: 1256848247
+    Data3: -1486477439
+    Data4: 522008176
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -4138623743449132697}
+  - {fileID: -2043172596538590621}
+  - {fileID: -5766892629107425102}
+  EditorEvents:
+  - {fileID: -4833922079918165205}
+  - {fileID: -7626517968207703809}
+  - {fileID: -2092930259751076540}
+  - {fileID: 4579314360135573237}
+  - {fileID: 1379473298189509925}
+  EditorParameters:
+  - {fileID: 8996166750645356678}
+  MasterBanks:
+  - {fileID: -2043172596538590621}
+  StringsBanks:
+  - {fileID: -4138623743449132697}
+  cacheTime: 638244268166007612
+  cacheVersion: 131605
+--- !u!114 &486528964911171684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_Am_ARP_270
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_Am_ARP_270
+  Guid:
+    Data1: 2031112517
+    Data2: 1250455825
+    Data3: 547625905
+    Data4: -1791333390
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37590
+--- !u!114 &1018031543046355345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638243530794315146
+  FileSizes:
+  - Name: Desktop
+    Value: 1064
+  Exists: 1
+--- !u!114 &1267068995145993254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SomeoneLikeU
+  m_EditorClassIdentifier: 
+  Path: event:/SomeoneLikeU
+  Guid:
+    Data1: 1335586952
+    Data2: 1224035403
+    Data3: -1108317766
+    Data4: -511898693
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 256047
+--- !u!114 &1379473298189509925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: event:/Let It Be/Chord_Am_ARP_140
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorEventRef
+  Path: event:/Let It Be/Chord_Am_ARP_140
+  Guid:
+    Data1: 1473237189
+    Data2: 1201206096
+    Data3: -69821292
+    Data4: -1450567345
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &1595710353691058456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/firstTryBank.bank
+  m_EditorClassIdentifier: 
+  Path: fmod_studio_first_try/Build/Desktop/firstTryBank.bank
+  Name: firstTryBank
+  StudioPath: bank:/firstTryBank
+  lastModified: 638243530793861008
+  FileSizes:
+  - Name: Desktop
+    Value: 6556320
+  Exists: 1
+--- !u!114 &1873061539810847164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_C_ARP_135
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_C_ARP_135
+  Guid:
+    Data1: -1548691756
+    Data2: 1111019397
+    Data3: 29591467
+    Data4: -1826085187
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73142
+--- !u!114 &1990495634886058392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Let It Be/Chord_G_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Let It Be/Chord_G_ARP_140
+  Guid:
+    Data1: -2092180632
+    Data2: 1231799582
+    Data3: -1706799215
+    Data4: -8860954
+  Banks:
+  - {fileID: 1595710353691058456}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &2955404023379166674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_Am_ARP_135
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_Am_ARP_135
+  Guid:
+    Data1: -847916010
+    Data2: 1291671299
+    Data3: -2072713049
+    Data4: 1815229155
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73142
+--- !u!114 &3264467125342999810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SomeoneLikeU_Slow
+  m_EditorClassIdentifier: 
+  Path: event:/SomeoneLikeU_Slow
+  Guid:
+    Data1: 373872463
+    Data2: 1181573105
+    Data3: -1530527867
+    Data4: 1016401742
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 512095
+--- !u!114 &3382903712453449209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Let It Be/Chord_Am_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Let It Be/Chord_Am_ARP_140
+  Guid:
+    Data1: 1473237189
+    Data2: 1201206096
+    Data3: -69821292
+    Data4: -1450567345
+  Banks:
+  - {fileID: 1595710353691058456}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &4352388563074209101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_G_ARP_135
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_G_ARP_135
+  Guid:
+    Data1: -205239568
+    Data2: 1281671037
+    Data3: 1866920586
+    Data4: -393680098
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 73142
+--- !u!114 &4579314360135573237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: event:/Let It Be/Chord_C_ARP_140
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorEventRef
+  Path: event:/Let It Be/Chord_C_ARP_140
+  Guid:
+    Data1: 1708796559
+    Data2: 1202141177
+    Data3: -84258404
+    Data4: -1355745933
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &4667930264181394669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord C_ARP_67.5
+  m_EditorClassIdentifier: 
+  Path: event:/Chord C_ARP_67.5
+  Guid:
+    Data1: 651655097
+    Data2: 1150214504
+    Data3: 1963946629
+    Data4: 68692911
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144274
+--- !u!114 &4683289354218532527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Tempo
+  m_EditorClassIdentifier: 
+  Name: Tempo
+  StudioPath: parameter:/Tempo
+  Min: 0
+  Max: 2
+  Default: 1
+  ID:
+    data1: 3704780249
+    data2: 807994015
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &5526089391580820410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_F_ARP_270
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_F_ARP_270
+  Guid:
+    Data1: 549363935
+    Data2: 1102883613
+    Data3: -1176072562
+    Data4: -1239339477
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37590
+--- !u!114 &6341946630810735362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Chord_C_ARP_270
+  m_EditorClassIdentifier: 
+  Path: event:/Chord_C_ARP_270
+  Guid:
+    Data1: 5275143
+    Data2: 1169588178
+    Data3: -835677012
+    Data4: -242820264
+  Banks:
+  - {fileID: -5766892629107425102}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 37590
+--- !u!114 &8858832123420073513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Let It Be/Chord_C_ARP_140
+  m_EditorClassIdentifier: 
+  Path: event:/Let It Be/Chord_C_ARP_140
+  Guid:
+    Data1: 1708796559
+    Data2: 1202141177
+    Data3: -84258404
+    Data4: -1355745933
+  Banks:
+  - {fileID: 1595710353691058456}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 70608
+--- !u!114 &8996166750645356678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: parameter:/Tempo
+  m_EditorClassIdentifier: FMODUnityEditor:FMODUnity:EditorParamRef
+  Name: Tempo
+  StudioPath: parameter:/Tempo
+  Min: 0
+  Max: 2
+  Default: 1
+  ID:
+    data1: 3704780249
+    data2: 807994015
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &9088377767899949864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Let It Be/LetItBe_140
+  m_EditorClassIdentifier: 
+  Path: event:/Let It Be/LetItBe_140
+  Guid:
+    Data1: 484880970
+    Data2: 1324704721
+    Data3: -700781942
+    Data4: -628337793
+  Banks:
+  - {fileID: 1595710353691058456}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 232751

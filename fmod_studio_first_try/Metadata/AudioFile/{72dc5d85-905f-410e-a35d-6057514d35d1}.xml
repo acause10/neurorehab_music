@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{72dc5d85-905f-410e-a35d-6057514d35d1}">
+		<property name="assetPath">
+			<value>Chord_F_ARP_140.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>70.608979591836729</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bec7b400-ff77-4242-81ec-586e477f3b2a}</destination>
+		</relationship>
+	</object>
+</objects>

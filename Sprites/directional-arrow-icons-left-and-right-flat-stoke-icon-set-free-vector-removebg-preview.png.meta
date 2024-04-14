@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 00c55a6135c26674cace4891dc5b72f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 231
+        width: 48
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2748679d65848f44999eec61f2bd623
+      internalID: 614736647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 232
+        width: 48
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac21eb1b1d8554e9d2b23f00df3c97
+      internalID: 2144693163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 227
+        width: 52
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a5dc1a5d41c24dbaa2ddd4e311a09
+      internalID: -1734455071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 227
+        width: 52
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd318eda3a4d2546a743206d6ec3839
+      internalID: -1183768955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 235
+        width: 40
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51606968c0c80f04c889bfe3e287a02e
+      internalID: 166728927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 235
+        width: 39
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2219cfe3ba42d40bf6d415e76710b6
+      internalID: -590901556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 34
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475742c0d4bedd647818db367c043872
+      internalID: -1700754771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 167
+        width: 34
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ecdbf5579d1a41851d1bfd011aa84
+      internalID: -1424673362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 32
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ff2e16a2a9584c96cad151ab4910a
+      internalID: -1119923388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 163
+        width: 31
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635f76a1fb95e44aa0835496834fbdc
+      internalID: 1453449869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 164
+        width: 42
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f360ec3b43bb48abb2de6b6dc9b69
+      internalID: -1048314938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 164
+        width: 41
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a066fea44ef4aa4dbc840d2a5b5adb3
+      internalID: -1489824173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 41
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271ba7cba546124fa37dfc882075fee
+      internalID: -1608515488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 82
+        width: 42
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e44cdcc6e8ec448ad60559dd259d89
+      internalID: 106677532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 84
+        width: 24
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1ff09f1dec1442a35b470f92c97ba
+      internalID: -971218633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 24
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d9da9ddc4d23f44b8dba2096a12d5d
+      internalID: 186864676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 84
+        width: 25
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a08621612866544d9daa0d8e8a0fa33
+      internalID: 2120557064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 84
+        width: 25
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b6de75603c5d448dd7e5f9f736bfa
+      internalID: -1264969459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 84
+        width: 24
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d76c8d397df7c40a07199145f52edf
+      internalID: -1885126961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 84
+        width: 25
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642ad9fe04972be45862a284c14c07f5
+      internalID: 2051659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cd336ae73f7b474d80db5624331741a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_0: 614736647
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_1: 2144693163
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_10: -1048314938
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_11: -1489824173
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_12: -1608515488
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_13: 106677532
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_14: -971218633
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_15: 186864676
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_16: 2120557064
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_17: -1264969459
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_18: -1885126961
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_19: 2051659979
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_2: -1734455071
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_3: -1183768955
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_4: 166728927
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_5: -590901556
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_6: -1700754771
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_7: -1424673362
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_8: -1119923388
+      directional-arrow-icons-left-and-right-flat-stoke-icon-set-free-vector-removebg-preview_9: 1453449869
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
